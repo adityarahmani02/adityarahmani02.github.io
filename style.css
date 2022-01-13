@@ -1,0 +1,266 @@
+body {
+  background-color: white;
+}
+
+.marginnav {
+  margin-left: -80px;
+}
+
+.marginkanan {
+  margin-right: -80px;
+  color: white;
+}
+
+.marginkanan ul li {
+  font-family: sans-serif;
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: -40px;
+  margin-right: auto;
+}
+.menu {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  background-color: #f4f4f4;
+}
+
+.menu ul li a {
+  display: inline-block;
+  text-decoration: none;
+  color: #006563;
+  margin-right: 30px;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.menu ul li a:hover {
+  color: goldenrod;
+  cursor: pointer;
+}
+
+.iklan {
+  float: left;
+  margin-left: -137px;
+  height: auto;
+  width: 60%;
+}
+
+.agama1 {
+  width: 40%;
+}
+.agama2 {
+  width: 40%;
+  height: auto;
+}
+
+.judul1 {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.judul2 {
+  font-size: 30pt;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.jdl {
+  width: 40.5%;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+}
+
+.menu2 {
+  width: 60%;
+  height: auto;
+  padding: 10px;
+  margin-left: -30px;
+  margin-top: -15px;
+}
+.menu2 ul li a {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  margin-right: 30px;
+  background-color: grey;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+.menu2 ul li a:hover {
+  background-color: goldenrod;
+  color: black;
+  cursor: pointer;
+}
+
+.film-review h3 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 30pt;
+}
+.film-review h5 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: grey;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
+.film-review a {
+  text-decoration: none;
+}
+.film-review a h5:hover {
+  background-color: goldenrod;
+  color: black;
+  cursor: pointer;
+}
+.review {
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+body img {
+  border-radius: 5px;
+}
+.man ul {
+  margin-left: -2rem;
+}
+.man ul li {
+  float: left;
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+}
+
+.star li {
+  color: orange;
+  font-size: 30px;
+  padding-right: 5px;
+}
+
+.bil h6 {
+  background-color: grey;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  padding: 8px;
+}
+
+.bil a h6:hover {
+  background-color: goldenrod;
+  color: black;
+  cursor: pointer;
+}
+
+.user {
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+  width: 30%;
+}
+
+.user h5 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 20pt;
+  color: black;
+}
+.user1 {
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 5px;
+  width: 26%;
+}
+
+.nap {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20pt;
+  font-weight: bold;
+  color: black;
+  padding-left: 5px;
+}
+
+.chou h6 {
+  padding: 15px;
+  text-align: center;
+}
+
+.akhr {
+  background-color: #f4f4f4;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+.akhr h5 {
+  font-size: 18pt;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center;
+  margin-right: -25px;
+}
+
+.sin {
+  margin-left: -2rem;
+}
+.sin button {
+  padding-top: 6px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 6px;
+}
+
+.sin button:hover {
+  background-color: goldenrod;
+  color: black;
+}
+
+.due {
+  background-color: #006563;
+  margin-left: -36px;
+  margin-right: -36px;
+}
+
+.nk ul li {
+  list-style: none;
+  display: inline-block;
+  padding-top: 18px;
+  padding-bottom: auto;
+}
+
+.nk ul li a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  margin-right: 30px;
+}
+.nk ul li a:hover {
+  color: goldenrod;
+}
+
+.footer .copy {
+  text-align: center;
+  color: white;
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-right: -20px;
+  cursor: pointer;
+}
+
+.footer .copy:hover {
+  color: goldenrod;
+}
